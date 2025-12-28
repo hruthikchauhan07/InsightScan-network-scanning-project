@@ -146,6 +146,7 @@ This project is provided as-is for educational and authorized use only.
 ## Author
 
 Insight Scan - Network Reconnaissance Tool
+~ Hruthik Chauhan
 
 ---
 
